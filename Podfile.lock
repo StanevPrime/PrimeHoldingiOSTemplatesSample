@@ -1,0 +1,45 @@
+PODS:
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxOptional (3.5.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - SwiftLint (0.26.0)
+  - Swinject (2.4.1)
+  - SwinjectAutoregistration (2.1.1):
+    - Swinject (~> 2.1)
+  - SwinjectStoryboard (2.0.1):
+    - Swinject (~> 2.4)
+
+DEPENDENCIES:
+  - RxCocoa (~> 4.0)
+  - RxOptional (~> 3.5)
+  - RxSwift (~> 4.0)
+  - SwiftLint
+  - Swinject (~> 2.4)
+  - SwinjectAutoregistration (~> 2.0)
+  - SwinjectStoryboard (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxCocoa
+    - RxOptional
+    - RxSwift
+    - SwiftLint
+    - Swinject
+    - SwinjectAutoregistration
+    - SwinjectStoryboard
+
+SPEC CHECKSUMS:
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxOptional: bd32ff8ca9df4177683d56ffeb618a9d4d5d5cad
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SwiftLint: f6b83e8d95ee1e91e11932d843af4fdcbf3fc764
+  Swinject: f7f15a9672e99328c1f07f277091087917215700
+  SwinjectAutoregistration: d06b56bd8f912b9fb9c59c15181342558a734b1b
+  SwinjectStoryboard: ad2529218a1504cc888040ee56c13d7cb1cc7998
+
+PODFILE CHECKSUM: 8f872294065c2bfd03dd85fd3f6b2417edbf42a9
+
+COCOAPODS: 1.5.2

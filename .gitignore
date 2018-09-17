@@ -1,0 +1,10 @@
+Pods/
+.DS_Store
+.idea/
+*.xcworkspace
+Test1.xcodeproj/xcuserdata/
+Test1.xcworkspace/xcuserdata/
+Test1/.DS_Store
+Test1/Classes/.DS_Store
+Test1/Resources/.DS_Store
+Test1/Resources/Images/.DS_Store
